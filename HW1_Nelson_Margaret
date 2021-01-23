@@ -16,3 +16,12 @@ dictionary.update({"snowy": "ski"})
 print(dictionary)
 
 # Question 4
+score = 82
+if score >=90:
+    print("A")
+elif score >= 80 and < 90:
+    print("B")
+elif score >= 70 and < 80:
+    print("C")
+else score < 70:
+    print("D")
