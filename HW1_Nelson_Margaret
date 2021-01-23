@@ -1,0 +1,18 @@
+# Question 1
+colors = ["teal","yellow", "periwinkle"]
+print(colors)
+
+# Question 2
+nums = list(range(30, 60, 3))
+print(type(nums))
+print(nums)
+
+# Question 3
+dictionary = {"Sunny": "play", "Rainy": "watching TV", "Cloudy": "walk"}
+print(type(dictionary))
+print(dictionary)
+
+dictionary.update({"snowy": "ski"})
+print(dictionary)
+
+# Question 4
