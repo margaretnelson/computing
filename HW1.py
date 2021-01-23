@@ -31,7 +31,7 @@ dictionary.update({"snowy": "ski"})
 print(dictionary)
 
 
-# In[33]:
+# In[34]:
 
 
 score = 82
@@ -42,7 +42,7 @@ elif score>=80 and score<90:
 elif score>=70 and score<80:
     print('C')
 else: 
-    print('D')
+    print('F')
 
 
 # In[ ]:
